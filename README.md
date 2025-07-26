@@ -4,7 +4,7 @@ A fully responsive travel-focused social media platform clone built with pure HT
 
 ## 📸 Preview
 
-<img width="1138" height="847" alt="image" src="https://github.com/user-attachments/assets/f0069422-d0b6-4590-bd97-c8a750ac13d2" />
+<img width="1143" height="850" alt="image" src="https://github.com/user-attachments/assets/fe5c04e5-4ebe-41ba-9915-793ea5e403b8" />
 
 *Clean, modern travel social media interface with responsive gallery*
 
@@ -98,13 +98,13 @@ This project significantly advanced my skills in:
 
 ## 🔄 Future Improvements
 
-- [ ] Add JavaScript interactions and animations
-- [ ] Implement infinite scroll for photo gallery
-- [ ] Add photo upload functionality
-- [ ] Include user authentication interface
-- [ ] Add comment and like interactions
-- [ ] Implement dark mode theme
-- [ ] Add photo filtering and search capabilities
+- [ ] Enhance CSS animations and hover effects
+- [ ] Add more responsive breakpoints for better tablet experience
+- [ ] Implement CSS-only modal galleries for photo viewing
+- [ ] Create additional themed color schemes
+- [ ] Add more sophisticated CSS grid layouts
+- [ ] Improve accessibility with better focus states
+- [ ] Optimize image loading with CSS techniques
 
 ## 👨‍💻 Author
 
